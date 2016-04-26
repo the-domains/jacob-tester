@@ -1,0 +1,28 @@
+name: Jacob tester
+favicon: null
+layout_spectrum: 0.29279303597286344
+typography_spectrum: 0.1469940822571516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2726625306531787
+  lightness: 0.087649489287287
+  saturation: 0.34113192767836154
+  rhythmicContrast: 0.5166699963156134
+purpose: []
